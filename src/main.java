@@ -1,8 +1,3 @@
-/**
- * Student Name: David Martin
- * Student ID: 6995948
- * EMAIL: dm20zo@brocku.ca
- */
 
 import java.io.FileInputStream;
 import java.io.FileWriter;
